@@ -29,8 +29,8 @@ We have assessed the packet processing performance of our delay monitoring solut
 
 ### Source code
 
-- User space implementation of STAMP Session-Sender, STAMP Session-Reflector and SDN controller : https://github.com/everywan-io/srv6pm-delay-measurement
-- eBPF based implementation of STAMP Session-Sender, STAMP Session-Reflector : https://github.com/netgroup/hikepkg-stamp
+- [User space implementation](https://github.com/everywan-io/srv6pm-delay-measurement) of STAMP Session-Sender, STAMP Session-Reflector and SDN controller 
+- [eBPF based implementation](https://github.com/netgroup/hikepkg-stamp) of STAMP Session-Sender, STAMP Session-Reflector 
 
 ### Scientific papers
 

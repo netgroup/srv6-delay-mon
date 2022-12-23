@@ -35,7 +35,7 @@ We have assessed the packet processing performance of our delay monitoring solut
 ### Scientific papers
 
 - C. Scarpitta, G. Sidoretti, A. Mayer, S. Salsano, A. Abdelsalam, C. Filsfils, <br>
-"[High Performance Delay Monitoring\\for SRv6 Based SD-WANs]()", <br>
+"[High Performance Delay Monitoring for SRv6 Based SD-WANs]()", <br>
 Submitted paper, December 2022
 
 <!--- example of figure

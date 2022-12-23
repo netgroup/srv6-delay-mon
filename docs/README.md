@@ -11,23 +11,19 @@ The measurement architecture also includes an SDN controller, as shown in the fo
 
 ![stamp-reference-scenario-web-page.png](<./images/stamp-reference-scenario-web-page.png>)
 
-<img src="https://raw.githubusercontent.com/netgroup/srv6-delay-mon/master/docs/images/stamp-reference-scenario-web-page.png" width="400">
+<img src="https://raw.githubusercontent.com/netgroup/srv6-delay-mon/master/docs/images/stamp-reference-scenario-web-page.png" width="600">
 
+We implemented the STAMP Session-Sender and STAMP Session-Reflector with a user space application based on Scapy, then we developed an eBPF version.
 
-We first implemented the STAMP Session-Sender and STAMP Session-Reflector with a user space application based on Scapy, then we developed an eBPF version.
+The delay monitoring solution has been integrated in the [EveryWAN](https://github.com/everywan-io/everywan-docs) architecture for SRv6 based SD-WANs.
 
-The delay monitoring solution has been integrated in the EveryWAN architecture for SRv6 based SD-WANs.
+We have assessed the packet processing performance of our delay monitoring solution (see the scientific paper listed below).
 
-We have assessed the packet processing performance of our delay monitoring solution.
+### Walkthrough documentation
 
-### Walkthrough
+[Walkthrough for delay monitoring with EveryWAN](https://docs.google.com/document/d/1-yNLrOOyxbPK_pSDFfqv5Xzzf1Ligm2lGMQVLapeql4)
 
-Walkthrough for delay monitoring with EveryWAN 
-https://docs.google.com/document/d/1-yNLrOOyxbPK_pSDFfqv5Xzzf1Ligm2lGMQVLapeql4
-
-Walkthrough for SRv6 STAMP delay monitoring experiments (performance assessment)
-https://docs.google.com/document/d/1bG24Ja-Xr11BtYydMI2yrMxpP5aZ18DXBdf3LTek-b0
-
+[Walkthrough for SRv6 STAMP delay monitoring experiments (performance assessment)](https://docs.google.com/document/d/1bG24Ja-Xr11BtYydMI2yrMxpP5aZ18DXBdf3LTek-b0)
 
 ### Source code
 

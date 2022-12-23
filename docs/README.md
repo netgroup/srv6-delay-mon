@@ -9,7 +9,9 @@ delay of an SRv6 path between two measurement nodes, called STAMP Session-Sender
 
 The measurement architecture also includes an SDN controller, as shown in the following figure.
 
+<!---
 ![stamp-reference-scenario-web-page.png](<./images/stamp-reference-scenario-web-page.png>)
+--->
 
 <img src="https://raw.githubusercontent.com/netgroup/srv6-delay-mon/master/docs/images/stamp-reference-scenario-web-page.png" width="600">
 

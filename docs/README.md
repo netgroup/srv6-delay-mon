@@ -9,7 +9,7 @@ delay of an SRv6 path between two measurement nodes, called STAMP Session-Sender
 
 The measurement architecture also includes an SDN controller, as shown in the following figure.
 
-![stamp-reference-scenario.png](<./images/stamp-reference-scenario.png>)
+![stamp-reference-scenario-web-page.png](<./images/stamp-reference-scenario-web-page.png>)
 
 We first implemented the STAMP Session-Sender and STAMP Session-Reflector with a user space application based on Scapy, then we developed an eBPF version.
 

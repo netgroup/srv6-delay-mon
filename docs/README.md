@@ -11,6 +11,9 @@ The measurement architecture also includes an SDN controller, as shown in the fo
 
 ![stamp-reference-scenario-web-page.png](<./images/stamp-reference-scenario-web-page.png>)
 
+<img src="https://raw.githubusercontent.com/netgroup/srv6-delay-mon/master/docs/images/stamp-reference-scenario-web-page.png" width="400">
+
+
 We first implemented the STAMP Session-Sender and STAMP Session-Reflector with a user space application based on Scapy, then we developed an eBPF version.
 
 The delay monitoring solution has been integrated in the EveryWAN architecture for SRv6 based SD-WANs.
